@@ -1,18 +1,18 @@
 export const JOB_STATUS = {
-  PENDING: 'pending',
-  INTERVIEW: 'interview',
-  DECLINED: 'declined',
+  PENDING: 'Pending',
+  INTERVIEW: 'Interview',
+  DECLINED: 'Declined',
 };
 
 export const JOB_TYPE = {
-  FULL_TIME: 'full-time',
-  PART_TIME: 'part-time',
-  INTERNSHIP: 'internship',
+  FULL_TIME: 'Full-time',
+  PART_TIME: 'Part-time',
+  INTERNSHIP: 'Internship',
 };
 
 export const JOB_SORT_BY = {
-  NEWEST_FIRST: 'newest',
-  OLDEST_FIRST: 'oldest',
+  NEWEST_FIRST: 'Newest',
+  OLDEST_FIRST: 'Oldest',
   ASCENDING: 'a-z',
   DESCENDING: 'z-a',
 };
